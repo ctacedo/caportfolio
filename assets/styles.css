@@ -190,12 +190,9 @@ header nav ul li a {
 }
 
 .right {
-  float: right;
   border: 1px;
   margin: 10px 0px 10px 0px;
   padding: 10px;
-  height: 400px;
-  width: 1260px;
   display: inline;
   position: relative;
   text-align: left;
